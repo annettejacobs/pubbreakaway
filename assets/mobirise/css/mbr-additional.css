@@ -1378,3 +1378,42 @@ body {
 .cid-qY4x6N4H4P {
   background-image: url("../../../assets/images/mbr-1626x1080.jpg");
 }
+.cid-qY4VIPrCdb {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-qY4VIPrCdb .card-img {
+  background-color: #fff;
+}
+.cid-qY4VIPrCdb .card-box {
+  background-color: #cc2952;
+  padding: 2rem;
+}
+.cid-qY4VIPrCdb h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qY4VIPrCdb p {
+  text-align: left;
+}
+.cid-qY4VIPrCdb .mbr-text {
+  color: #ffffff;
+}
+.cid-qY4VIPrCdb .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qY4VIPrCdb .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-qY4VIPrCdb .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
